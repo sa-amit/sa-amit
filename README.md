@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sa-amit
-- 👀 I’m interested in opencv, pytorch, tensorflow
+- 👀 I’m interested in databricks, python, awk, opencv, pytorch
 - 🌱 I’m currently learning all the above
 - 💞️ I’m looking to collaborate on all the above
 - 📫 How to reach me - amitsaxena99@outlook.com
